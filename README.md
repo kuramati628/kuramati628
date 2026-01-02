@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuramati628&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuramati628&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuramati628&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuramati628&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kuramati628&theme=gruvbox&utcOffset=9)
+
 
 
